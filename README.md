@@ -1,4 +1,4 @@
-# Advent of Code 2019 using R
+# Advent of Code 2020 using R
 
 > Atempt to solve [Advent of Code 2020](https://adventofcode.com/2020/) puzzles with R
 
